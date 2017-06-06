@@ -1,4 +1,5 @@
-# NewApp
+
+# Tour-Of-Heroes App with Angular-CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
@@ -26,3 +27,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## In-Memory-Web-API Error
+
+Can be solved using the command-line by following the following [StackOverflow Query](https://stackoverflow.com/questions/37377529/angular2-tutorial-tour-of-heroes-cannot-find-module-angular2-in-memory-web-a/42970884#42970884)
+
+### Source
+
+[Angular Website](https://angular.io)
